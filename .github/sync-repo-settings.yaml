@@ -1,10 +1,8 @@
-# TEST1234
-# TEST1234
-# TEST1234
+%BAD YAML COMMENT
 
 # Whether or not rebase-merging is enabled on this repository.
 # Defaults to `true`
-rebaseMergeAllowed: true
+rebaseMergeAllowed: false
 
 # Whether or not squash-merging is enabled on this repository.
 # Defaults to `true`
